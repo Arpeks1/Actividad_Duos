@@ -11,11 +11,11 @@ function traerdatos(datos) {
 
         contenedoraux.innerHTML =
         `
+            <img src="${i.Imagen}" alt="img funko">
             <h1>${i.Nombre}</h1>
             <h2>$${i.Precio}</h2>
             <h3>cantidad: ${i.Stock}</h3>
             <p>${i.Descripcion}</p>
-            <img src="${i.Imagen}" alt="img">
         `
         contenedor.appendChild(contenedoraux)
     });
@@ -34,6 +34,6 @@ filtro.addEventListener("keyup", function () {
         traerdatos(filtros)
     }
     else {
-        contenedor.innerHTML = "<p> producto no encontrado </p>"
+        contenedor.innerHTML = "<h1> producto no encontrado </h1>"
     }
 })

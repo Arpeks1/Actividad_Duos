@@ -1,7 +1,7 @@
 export const DB=[
     {
         ID:1,
-        Nombre: "Bruno araujo",
+        Nombre: "Bruno Araujo",
         Precio: 20.080,
         Stock: 6,
         Descripcion: "funko pop con refencia al personaje de owen grady",
@@ -57,7 +57,7 @@ export const DB=[
     },
     {
         ID:8,
-        Nombre: "Sol Guitierrez cao",
+        Nombre: "Sol Guitierrez Cao",
         Precio: 20.000,
         Stock: 4,
         Descripcion: "Funko pop haciendo cosplay de (por agregar)",

@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.encabezado{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #262626 ;
+}
+.encabezado img{
+    border-radius: 15px;
+    transition: 0.5s ease-in-out;
+    height: 150px;
+    width: 125px;
+}
+.encabezado img:hover{
+    transform: scale(0.9);
+    filter: drop-shadow(2px 2px 6px whitesmoke);
+}
+.extra{
+    margin: auto 10px;
+    text-decoration: none;
+    color: whitesmoke;
+    padding-bottom: 5px;
+    transition: 0.1s ease-in-out;
+}
+.extra:hover{
+    border-bottom: 5px solid;
+    border-image: linear-gradient(to right, crimson, black)1;
+}
+.contactos{
+    margin: auto 10px;
+    text-decoration: none;
+    color: rgb(30, 30, 30);
+    padding: 5px;
+    background: gainsboro;
+    border-radius: 15px;
+    transition: 0.3s ease-in-out;
+}
+.contactos:hover{
+    transform: scale(0.9) ;
+    filter: drop-shadow(3px 3px 6px crimson);
+}
+.principal{
+    background: #f5f5f5;
+}
+/* parte del carousel */
+.contenedor_form form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#nombre{
+    margin: 10px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+#filtro{
+    margin: 10px;
+    border-radius: 7px;
+    filter: drop-shadow(2px 2px 6px black);
+}
+#buscar{
+    padding: 5px 15px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #262626;
+    color: #f5f5f5;
+    transition: 0.6s ease-in-out;
+}
+#buscar:hover{
+    transform: scale(0.9);
+    filter: drop-shadow(2px 2px 6px crimson);
+}
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.tarjetas{
+    height: 450px;
+    width: 300px;
+    background: #999999;
+    margin: 25px 50px;
+    border: black solid 3.5px;
+    border-radius: 10px;
+    transition: 0.5s ease-in-out;
+}
+
+.tarjetas:hover{
+    transform: scale(0.9);
+    filter: drop-shadow(5px 5px 6px black);
+}
+.pie{
+    background: #262626;
+    display: flex;
+    justify-content: space-evenly;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.info img{
+    height: 105px;
+    width: 105px;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    transition: 0.4s ease-in-out;
+}
+.info img:hover{
+    filter: drop-shadow(2px 2px 6px white);
+    transform: scale(0.8);
+}
+.info p{
+    font-size: 25px;
+    color: whitesmoke;
+    text-shadow: 4px 4px 6px black;
+}
