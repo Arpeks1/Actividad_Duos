@@ -12,10 +12,10 @@ function traerdatos(datos) {
         contenedoraux.innerHTML =
         `
             <img src="${i.Imagen}" alt="img funko">
-            <h1>${i.Nombre}</h1>
-            <h2>$${i.Precio}</h2>
-            <h3>cantidad: ${i.Stock}</h3>
-            <p>${i.Descripcion}</p>
+            <h1 class="Texto">${i.Nombre}</h1>
+            <h2 class="Texto">$${i.Precio}</h2>
+            <h3 class="Texto">cantidad: ${i.Stock}</h3>
+            <p  class="Texto">${i.Descripcion}</p>
         `
         contenedor.appendChild(contenedoraux)
     });

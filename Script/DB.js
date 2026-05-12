@@ -5,15 +5,15 @@ export const DB=[
         Precio: 20.080,
         Stock: 6,
         Descripcion: "funko pop con refencia al personaje de owen grady",
-        Imagen:"../src/productos/1.jpg"
+        Imagen:"../src/Funkos/bruno.png"
     },
     {
         ID:2,
         Nombre: "Lisandro Sorli",
         Precio: 20.770,
         Stock: 8,
-        Descripcion: "Funko popo con referencia al paleontologo florentino ameghino",
-        Imagen:"../src/productos/2.jpg"
+        Descripcion: "Funko pop con referencia al paleontologo florentino ameghino",
+        Imagen:"../src/Funkos/Sin_stock.png"
     },
     {
         ID:3,
@@ -21,7 +21,7 @@ export const DB=[
         Precio: 13.000,
         Stock: 4,
         Descripcion: "Funko pop con referencia al personaje de john hammond",
-        Imagen:"../src/productos/3.jpg"
+        Imagen:"../src/Funkos/gabi.png"
     },
     {
         ID:4,
@@ -29,7 +29,7 @@ export const DB=[
         Precio: 1257,
         Stock: 3,
         Descripcion: "Funko pop haciendo cosplay de un Dilophosaurus wetherilli",
-        Imagen:"../src/productos/4.jpg"
+        Imagen:"../src/Funkos/franco.png"
     },
     {
         ID:5,
@@ -37,7 +37,7 @@ export const DB=[
         Precio: 19.930,
         Stock: 3,
         Descripcion: "Funko pop haciendo cosplay de un carnotaurus sastrei",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/Sin_stock.png"
     },
     {
         ID:6,
@@ -45,7 +45,7 @@ export const DB=[
         Precio: 7.000,
         Stock: 2,
         Descripcion: "Funko pop haciendo cosplay de un beelzebufo",
-        Imagen:"../src/productos/6.jpg"
+        Imagen:"../src/Funkos/joaquin.png"
     },
     {
         ID:7,
@@ -53,7 +53,7 @@ export const DB=[
         Precio: 68.000,
         Stock: 6,
         Descripcion: "Funko pop haciendo cosplay de un quetzalcoatlus",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/dani.png"
     },
     {
         ID:8,
@@ -61,7 +61,7 @@ export const DB=[
         Precio: 20.000,
         Stock: 4,
         Descripcion: "Funko pop haciendo cosplay de (por agregar)",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/sol.png"
     },
     {
         ID:9,
@@ -69,7 +69,7 @@ export const DB=[
         Precio: 80.000,
         Stock: 2,
         Descripcion: "Funko pop haciendo cosplay de un megatherium",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/catalina.png"
     },
     {
         ID:10,
@@ -77,7 +77,7 @@ export const DB=[
         Precio: 12.500,
         Stock: 3,
         Descripcion: "Funko pop haciendo referencia de un concavenator corcovatus",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/fede.png"
     },
     {
         ID:11,
@@ -85,7 +85,7 @@ export const DB=[
         Precio: 19.900,
         Stock: 2,
         Descripcion: "Funko pop con referencia al personaje de ellie sattler",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/ayestaran.png"
     },
     {
         ID:12,
@@ -93,7 +93,7 @@ export const DB=[
         Precio: 79.900,
         Stock: 4,
         Descripcion: "Funko pop haciendo cosplay de un diabloceratops aetoni",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/lucas.png"
     },
     {
         ID:13,
@@ -101,7 +101,7 @@ export const DB=[
         Precio: 13.230,
         Stock: 7,
         Descripcion: "Funko pop haciendo referencia a un dodo (Raphus cucullatus)",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/Sin_stock.png"
     },
     {
         ID:14,
@@ -109,7 +109,7 @@ export const DB=[
         Precio: 14.560,
         Stock: 2,
         Descripcion: "Funko pop haciendo cosplay de (por agregar)",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/martina.png"
     },
     {
         ID:15,
@@ -117,6 +117,6 @@ export const DB=[
         Precio: 12.345,
         Stock: 6,
         Descripcion: "Funko pop haciendo referencia al personaje del dr. henry wu",
-        Imagen:"../src/productos/5.jpg"
+        Imagen:"../src/Funkos/Sin_stock.png"
     }
 ]
