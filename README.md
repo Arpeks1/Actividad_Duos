@@ -19,10 +19,27 @@ El proyecto muestra una colección de tarjetas personalizadas estilo Funko Pop d
 
 ## 🛠️ Tecnologías utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap 
+- HTML: FrontEnd, Estructura.
+- CSS: FrontEnd, Diseño.
+- JavaScript: BackEnd, Lógica.
+- Bootstrap: Framework.
+
+---
+
+## Colaboradores
+
+- Lisandro Sorli (BackEnd)
+
+- Bruno Araujo (FrontEnd)
+
+---
+
+## Informacion
+
+- Curso 6°3
+- Grupo de Taller: 6.8
+- Materia: Labotatorio de Diseño Web Estatico
+- Docente: Gareis Pablo Facundo
 
 ---
 
@@ -45,5 +62,5 @@ Actividad_Duos/
 
 ---
 
-## URL de GitHub Pages
-https://arpeks1.github.io/Actividad_Duos/
+# URL de GitHub Pages
+## https://arpeks1.github.io/Actividad_Duos/
