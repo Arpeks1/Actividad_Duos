@@ -13,7 +13,7 @@ export const DB=[
         Precio: 20.770,
         Stock: 8,
         Descripcion: "Funko pop con referencia al paleontologo florentino ameghino",
-        Imagen:"../src/Funkos/Sin_stock.png"
+        Imagen:"../src/Funkos/lisandro.png"
     },
     {
         ID:3,
@@ -60,7 +60,7 @@ export const DB=[
         Nombre: "Sol Guitierrez Cao",
         Precio: 20.000,
         Stock: 4,
-        Descripcion: "Funko pop haciendo cosplay de (por agregar)",
+        Descripcion: "Funko pop haciendo cosplay de Compsognathus longipes",
         Imagen:"../src/Funkos/sol.png"
     },
     {
@@ -68,7 +68,7 @@ export const DB=[
         Nombre: "Catalina Aquino",
         Precio: 80.000,
         Stock: 2,
-        Descripcion: "Funko pop haciendo cosplay de un megatherium",
+        Descripcion: "Funko pop haciendo cosplay de un iguanodon bernissartensis",
         Imagen:"../src/Funkos/catalina.png"
     },
     {
@@ -108,7 +108,7 @@ export const DB=[
         Nombre: "Martina Borda",
         Precio: 14.560,
         Stock: 2,
-        Descripcion: "Funko pop haciendo cosplay de (por agregar)",
+        Descripcion: "Funko pop haciendo cosplay de Dromaeosaurus albertensis",
         Imagen:"../src/Funkos/martina.png"
     },
     {
